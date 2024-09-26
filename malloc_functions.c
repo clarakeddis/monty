@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * _calloc - concatenate tw strings specially
+ * _calloc - concatenate tw string specially
  * @nmemb: number of elements
  * @size: type of elements
  * Return: nothing
