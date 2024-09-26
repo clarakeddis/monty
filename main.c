@@ -3,7 +3,7 @@
 global_t vglo;
 
 /**
- * free_vglo - frees the global variables
+ * free_vglo - free the global variables
  *
  * Return: no return
  */
