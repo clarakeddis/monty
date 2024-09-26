@@ -1,1 +1,1 @@
-task 19
+all task 19
